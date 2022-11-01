@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olajideaisha
-- 👀 I’m interested in design
-- 🌱 I’m currently learning UI/UX
-- 💞️ I’m looking to collaborate on any design project especially ones on UI
+- 👀 I’m interested in cybersecurity 
+- 💞️ I’m looking to collaborate on any cybersecurity related 
+project especially ones on penetration testing 
 - 📫 You can reach me via twitter on @OlajideAishat7
 
 <!---
